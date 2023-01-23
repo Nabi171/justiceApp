@@ -1,0 +1,11 @@
+.body-color {
+    background-color: #000;
+}
+
+.banner-section {
+    background-image: url('./images/banner.png');
+    background-repeat: no-repeat;
+    width: 100%;
+    background-position: center;
+    padding: 15%;
+}
