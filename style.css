@@ -5,7 +5,19 @@
 .banner-section {
     background-image: url('./images/banner.png');
     background-repeat: no-repeat;
-    width: 100%;
+
     background-position: center;
-    padding: 15%;
+    padding: 10%;
+}
+
+.frame-width {
+    width: 30px;
+}
+
+.card {
+    background-color: #000;
+}
+
+.color-2 {
+    background-color: #000;
 }
